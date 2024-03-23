@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarpyvz&show_icons=true&locale=en" alt="sarpyvz" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarpyvz)](https://github.com/ryo-ma/github-profile-trophy)
